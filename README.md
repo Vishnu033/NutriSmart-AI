@@ -27,6 +27,18 @@ An AI-powered nutrition and health assistant that helps users track food, get pe
 - Mobile app version
 
 ---
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Settings
+![Settings](screenshots/settings.png)
+
+### Food Log
+![Food Log](screenshots/foodlog.png)
+
+---
 
 ### 👨‍💻 Developed By
 Vishnu Priya B
