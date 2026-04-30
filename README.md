@@ -33,6 +33,9 @@ An AI-powered nutrition and health assistant that helps users track food, get pe
 - Fitness tracking integration
 - Mobile app version
 
+## 🌐 Live Demo
+https://nutriapp-vishnu.web.app
+
 ---
 
 ### 👨‍💻 Developed By
