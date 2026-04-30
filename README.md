@@ -6,27 +6,14 @@ An AI-powered nutrition and health assistant that helps users track food, get pe
 - Smart food tracking
 - AI-based nutrition recommendations
 - Health insights dashboard
-- User profile & settings management
-- Clean and responsive UI
+- User profile & settings
+- Clean and modern UI
 
 ## 🛠️ Tech Stack
-- Frontend: React (Vite)
-- Styling: Tailwind CSS
-- Backend: (if used, mention here)
-- Deployment: Firebase / Google Cloud
+- React (Vite)
+- Tailwind CSS
+- JavaScript
 
-## 📸 Screenshots
-(Add screenshots here)
-
-## 🌐 Live Demo
-(Will be added after deployment)
-
-## 📌 Future Improvements
-- AI-based meal planning
-- Integration with fitness trackers
-- Mobile app version
-
----
 ## 📸 Screenshots
 
 ### Dashboard
@@ -38,22 +25,15 @@ An AI-powered nutrition and health assistant that helps users track food, get pe
 ### Food Log
 ![Food Log](screenshots/foodlog.png)
 
+## 🌐 Live Demo
+(Coming soon)
+
+## 📌 Future Improvements
+- AI meal planning
+- Fitness tracking integration
+- Mobile app version
+
 ---
 
 ### 👨‍💻 Developed By
 Vishnu Priya B
-
-## 💻 Running Locally
-
-To run the NutriSmart frontend prototype locally on your machine:
-
-1.  Clone the repository.
-2.  Install the dependencies:
-    ```bash
-    npm install
-    ```
-3.  Start the Vite development server:
-    ```bash
-    npm run dev
-    ```
-4.  Open `http://localhost:5173` in your browser.
